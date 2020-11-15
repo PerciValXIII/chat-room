@@ -8,3 +8,5 @@
 * Once server starts open 2 or more terminals and cd in to the client directory in each of them 
 * "npm start" to serve the local development server 
 * have fun using the chat app 
+
+# Refer the report for a thorough overview of the project
